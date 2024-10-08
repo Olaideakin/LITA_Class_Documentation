@@ -58,4 +58,10 @@ SELECT * FROM EMPLOYEE
 WHERE FIRSTNAME = JUSTIN
 ```
 
+```Excel
+Pivot Table
+```
+
 ## Data Visualization
+![Screenshot 2024-10-08 102735](https://github.com/user-attachments/assets/19a39947-450a-4aea-b378-a424f6cb1fae)
+![Screenshot 2024-10-08 105812](https://github.com/user-attachments/assets/c6f2b32d-9e43-4171-a1eb-d2f173bbd44a)
