@@ -42,7 +42,7 @@ The initial phase of the Data Cleaning and Preparations, will perform the follow
 2. Handling missing variables
 3. Data cleaning and formatting
 
-## Exploratory Data Analysis (Edit this part)
+## Exploratory Data Analysis
 ---
 EDA involves the exploring of the Data used during the cause of training:
 1. what is the total sum of salary paid to each employee?
@@ -63,5 +63,5 @@ Pivot Table
 ```
 
 ## Data Visualization
-![Screenshot 2024-10-08 102735](https://github.com/user-attachments/assets/19a39947-450a-4aea-b378-a424f6cb1fae)
-![Screenshot 2024-10-08 105812](https://github.com/user-attachments/assets/c6f2b32d-9e43-4171-a1eb-d2f173bbd44a)
+![SQL Query and Execution](https://github.com/user-attachments/assets/d9fa737f-23fd-41bd-b3de-392c2603d36c)
+![Pivot Table](https://github.com/user-attachments/assets/c28cc509-9d10-410c-a08a-56b0d3613cc0)
