@@ -31,9 +31,12 @@ The primary source of Data used here are data generated in the course of trainin
 1. For Data Cleaning
 2. For Data Analysis 
 3. For Data Visualization
-- SQL- Structured Query Language for Querying of Data
-- GitHub for Portfolio Building
-- Power BI(Business Intelligence) for Data Visualization 
+   
+- SQL- Structured Query Language for Querying of Data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+- GitHub for Portfolio Building [Join Here](https://github.com/)
+  
+- Power BI(Business Intelligence) for Data Visualization [Download Here](https://www.microsoft.com)
 
 ## Data Cleaning and Preparations
 ---
