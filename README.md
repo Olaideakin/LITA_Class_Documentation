@@ -57,3 +57,5 @@ This is where we include some basic lines codes or queries used during analysis:
 SELECT * FROM EMPLOYEE
 WHERE FIRSTNAME = JUSTIN
 ```
+
+## Data Visualization
