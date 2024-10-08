@@ -45,9 +45,9 @@ The initial phase of the Data Cleaning and Preparations, will perform the follow
 ## Exploratory Data Analysis (Edit this part)
 ---
 EDA involves the exploring of the Data used during the cause of training:
-1. what is the total sum of amount generated?
-2. what is of the total average of the amount generated?
-3. what is the number of regions?
+1. what is the total sum of salary paid to each employee?
+2. what is of the average age of the employee ?
+3. what is the department of the employee?
 
 ## Data Analysis
 ---
@@ -55,5 +55,5 @@ This is where we include some basic lines codes or queries used during analysis:
 
 ```SQL
 SELECT * FROM EMPLOYEE
-WHERE CONDITION = TRUE
+WHERE FIRSTNAME = JUSTIN
 ```
