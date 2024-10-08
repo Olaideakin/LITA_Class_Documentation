@@ -1,7 +1,9 @@
 # LITA_Class_Documentation
 This is where i documented my data analysis projects while learning with Incubator Hub
+
 ## Project Overview
 ---
+This project serves as a comprehensive documentation of my learning journey as a Data Analyst in training at Incubator Hub. Throughout this project, I focused on mastering essential tools and skills, including Excel, SQL, and Power BI, to analyze and visualize data effectively.
 
 ## Data Sources
 ---
